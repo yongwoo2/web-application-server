@@ -54,7 +54,7 @@ public class HttpRequestUtils {
 			return key;
 		}
 		
-		public String getValue() {
+		public String getValue() {	
 			return value;
 		}
 
